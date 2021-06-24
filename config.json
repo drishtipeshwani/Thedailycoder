@@ -1,0 +1,18 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql+pymysql://root:@localhost/dailycoder",
+    "prod_uri": "mysql+mysqlconnector://{user}:@{server}/{database}'.format(user='root', server='localhost', database='dailycoder')",
+    "tw_url": "https://twitter.com/drishtipeshwani",
+    "fb_url": "https://facebook.com/drishtipeshwani",
+    "gh_url": "https://github.com/drishtipeshwani",
+    "gmail_user": "your email id",
+    "gmail_password": "your_password",
+    "about-text": "Hi ! I am drishti I really like writing blog on variety of topics do give them a read",
+    "no_of_posts": 2,
+    "blog_name": "dailycoder",
+    "admin_email": "admin_email",
+    "admin_password": "admin_password",
+    "upload_location": "location of static folder"
+  }
+}
