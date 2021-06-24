@@ -2,7 +2,7 @@
   "params": {
     "local_server": "True",
     "local_uri": "mysql+pymysql://root:@localhost/dailycoder",
-    "prod_uri": "mysql+mysqlconnector://{user}:@{server}/{database}'.format(user='root', server='localhost', database='dailycoder')",
+    "prod_uri": "mysql+mysqlconnector://{user}:@{server}/{database}'.format(user='root', server='127.0.0.1', database='dailycoder')",
     "tw_url": "https://twitter.com/drishtipeshwani",
     "fb_url": "https://facebook.com/drishtipeshwani",
     "gh_url": "https://github.com/drishtipeshwani",
