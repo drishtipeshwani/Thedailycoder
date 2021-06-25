@@ -5,6 +5,9 @@ to the author which the author will receive as mail.
 
 # Preview
 <img src = "./logo/Blog.png">
+![The Daily Coder - Google Chrome 25-06-2021 14_39_30 (3)](https://user-images.githubusercontent.com/65016769/123400663-a21bc500-d5c3-11eb-87bf-84ad59b85cc7.png)
+![The Daily Coder - Google Chrome 25-06-2021 14_40_07 (2)](https://user-images.githubusercontent.com/65016769/123400674-a34cf200-d5c3-11eb-9638-522b7bc6cf25.png)
+
 
 # Tech Stack Used
 Web Framework - Flask
